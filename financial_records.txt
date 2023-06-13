@@ -1,0 +1,11 @@
+Device:
+  9000.0 : Mon Jan 02 00:00:00 ICT 2023 : Phone
+
+  8999.0 : Sat Jan 02 00:00:00 ICT 2021 : Laptop
+
+Food:
+  820.0 : Tue Jan 03 00:00:00 ICT 2023 : Nasi Goreng
+
+
+  8900.0 : Wed Dec 20 00:00:00 ICT 2023 : jjsd
+
